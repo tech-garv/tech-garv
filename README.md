@@ -38,13 +38,6 @@ I'm a full stack developer with experience building AI-integrated SaaS products 
 
 ---
 
-## 📈 Stats
-
-![Garv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tech-garv&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-garv&layout=compact&theme=tokyonight)
-
----
-
 ## 🏆 Achievements
 
 - Solved **200+ LeetCode DSA problems**, including Google/Amazon-tagged challenges
