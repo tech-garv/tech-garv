@@ -38,6 +38,19 @@ I'm a full stack developer with experience building AI-integrated SaaS products 
 
 ---
 
+## 🧠 LeetCode Progress
+
+![LeetCode Badge](https://raw.githubusercontent.com/tech-garv/your-repo-name/main/assets/badge.jpg)
+
+- ✅ **50 Days of Daily LeetCode Practice Completed**
+- 🏅 Earned the **50-Day Streak Badge**
+- 💪 Solving 200+ problems, including Google/Amazon tagged challenges
+- 🎯 Current goal: Reach **100-Day Streak Badge**
+
+> _“Consistency is the key to mastering DSA!”_
+
+---
+
 ## 🏆 Achievements
 
 - Solved **200+ LeetCode DSA problems**, including Google/Amazon-tagged challenges
@@ -49,8 +62,8 @@ I'm a full stack developer with experience building AI-integrated SaaS products 
 
 ## 📬 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/garvpuri)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/tech-garv)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/garvpuri)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/tech-garv)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&style=flat)](https://leetcode.com/u/GARVPURI/)
 
 ---
