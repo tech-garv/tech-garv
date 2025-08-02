@@ -40,7 +40,8 @@ I'm a full stack developer with experience building AI-integrated SaaS products 
 
 ## 🧠 LeetCode Progress
 
-![LeetCode Badge](https://raw.githubusercontent.com/tech-garv/tech-garv/main/assets/badge.jpg)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-50--Day%20Streak-orange?logo=leetcode&style=flat)
+
 
 
 - ✅ **50 Days of Daily LeetCode Practice Completed**
