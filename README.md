@@ -44,10 +44,10 @@ I'm a full stack developer with experience building AI-integrated SaaS products 
 
 
 
-- ✅ **50 Days of Daily LeetCode Practice Completed**
-- 🏅 Earned the **50-Day Streak Badge**
-- 💪 Solving 100+ problems, including Google/Amazon tagged challenges
-- 🎯 Current goal: Reach **100-Day Streak Badge**
+- ✅ **100 Days of Daily LeetCode Practice Completed**
+- 🏅 Earned the **100-Day Streak Badge**
+- 💪 Solving 200+ problems, including Google/Amazon tagged challenges
+- 🎯 Current goal: Reach **200-Day Streak Badge**
 
 > _“Consistency is the key to mastering DSA!”_
 
@@ -55,7 +55,7 @@ I'm a full stack developer with experience building AI-integrated SaaS products 
 
 ## 🏆 Achievements
 
-- Solved **100+ LeetCode DSA problems**, including Google/Amazon-tagged challenges
+- Solved **200+ LeetCode DSA problems**, including Google/Amazon-tagged challenges
 - Completed **Web Development Bootcamp** by Angela Yu (15+ projects)
 - Ranked in coding contests on LeetCode & CodeStudio
 - Guided **10+ juniors** in DSA & project development
