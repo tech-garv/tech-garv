@@ -40,7 +40,7 @@ I'm a full stack developer with experience building AI-integrated SaaS products 
 
 ## 🧠 LeetCode Progress
 
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-50--Day%20Streak-orange?logo=leetcode&style=flat)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-100--Day%20Streak-orange?logo=leetcode&style=flat)
 
 
 
